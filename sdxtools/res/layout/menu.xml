@@ -47,7 +47,7 @@
                 android:id="@+id/btnSM"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Scritp Manager" />
+                android:text="Script Manager" />
 
             <Button
                 android:id="@+id/btnLM"
@@ -60,12 +60,6 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Phone Dump" />
-
-            <Button
-                android:id="@+id/btnRoot"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Root" />
 
             <Button
                 android:id="@+id/btnKernel"
