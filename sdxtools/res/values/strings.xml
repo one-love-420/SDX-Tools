@@ -2,4 +2,13 @@
 <resources>
     <string name="app_name">Sdx Tools</string>
 
+    <string name="dialogTitleNoRoot">Root Access Denied</string>
+    <string name="noRootMessage">This application was not able to gain root access.
+        \nThis application requires root access to save changes and perform certain functions!
+        \nIf using the Superuser application, please make sure to grant this application root access and attempt again.
+        To learn more about root, please see All About Root, available in the Android Market.
+        Application entering a Limited mode with some restricted functions.</string>
+    <string name="allAboutRoot">All About Root</string>
+    <string name="allAboutRootMarketLink">https://market.android.com/details?id=com.joeykrim.allaboutroot</string>
+    <string name="limitedMode">Limited Mode</string>
 </resources>
