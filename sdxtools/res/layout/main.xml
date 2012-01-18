@@ -3,8 +3,6 @@
     android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
-
-<<<<<<< HEAD
     <TextView
         android:id="@+id/textView1"
         android:layout_width="match_parent"
@@ -18,7 +16,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="App removaln" />
+        android:text="App removal" />
 
     <Button
         android:id="@+id/filemanager"
@@ -67,12 +65,10 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:text="Font Changer" />
-=======
     <android.support.v4.view.ViewPager
         android:id="@+id/toolspager"
         android:layout_width="match_parent"
         android:layout_height="match_parent" >
     </android.support.v4.view.ViewPager>
 
->>>>>>> ddd8ab48ff998af21bdee1732173ecc25c6993f1
 </LinearLayout>
