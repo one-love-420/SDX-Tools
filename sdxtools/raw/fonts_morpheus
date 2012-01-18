@@ -1,0 +1,15 @@
+#!/system/bin/sh
+# 
+
+busybox mount -o rw,remount /system
+wget -q -O /cache/DroidSans.ttf http://dodgejcr.com/users/sdxtools/fonts/fonts_morpheus/DroidSans.ttf
+wget -q -O /cache/DroidSans-Bold.ttf http://dodgejcr.com/users/sdxtools/fonts/fonts_morpheus/DroidSans-Bold.ttf
+wget -q -O /cache/Clockopia.ttf http://dodgejcr.com/users/sdxtools/fonts/fonts_morpheus/Clockopia.ttf
+busybox cp -R /cache/DroidSans.ttf /system/fonts/HelveticaNeueLTPro35Th.ttf
+busybox cp -R /cache/DroidSans.ttf /system/fonts/HelveticaNeueOTS.ttf
+busybox mv -f /cache/DroidSans.ttf /system/fonts/DroidSans.ttf
+busybox mv -f /cache/DroidSans-Bold.ttf /system/fonts/DroidSans-Bold.ttf
+busybox mv -f /cache/Clockopia.ttf /system/fonts/Clockopia.ttf
+busybox mount -o ro,remount /system
+sync
+pkill -f system_server
