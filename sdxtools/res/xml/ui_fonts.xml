@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<!-- Fonts -->
+	<PreferenceCategory android:title="@string/title_fonts_altehaasgrotesk">		
+		<Preference android:key="fonts_altehaasgrotesk"
+			android:layout="@layout/fonts_altehaasgrotesk"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_avantgardebook">
+		<Preference android:key="fonts_avantgardebook"			
+			android:layout="@layout/fonts_avantgardebook"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_blackchancery">
+		<Preference android:key="fonts_ticker_blackchancery"			
+			android:layout="@layout/fonts_blackchancery"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_caviardreams">
+		<Preference android:key="fonts_caviardreams"			
+			android:layout="@layout/fonts_caviardreams"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_centurygothic">
+		<Preference android:key="fonts_centurygothic"			
+			android:layout="@layout/fonts_centurygothic"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_cleevr">
+		<Preference android:key="fonts_cleevr"			
+			android:layout="@layout/fonts_cleevr"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_codgothic">
+		<Preference android:key="fonts_codgothic"			
+			android:layout="@layout/fonts_codgothic"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_comfortaa">
+		<Preference android:key="fonts_comfortaa"			
+			android:layout="@layout/fonts_comfortaa"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_decker">
+		<Preference android:key="fonts_decker"			
+			android:layout="@layout/fonts_decker"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_droidlogo">
+		<Preference android:key="fonts_droidlogo"			
+			android:layout="@layout/fonts_droidlogo"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_frhopper">
+		<Preference android:key="fonts_frhopper"			
+			android:layout="@layout/fonts_frhopper"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_grissans">
+		<Preference android:key="fonts_grissans"			
+			android:layout="@layout/fonts_grissans"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_helvetiker">
+		<Preference android:key="fonts_helvetiker"			
+			android:layout="@layout/fonts_helvetiker"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_herolight">
+		<Preference android:key="fonts_herolight"			
+			android:layout="@layout/fonts_herolight"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_machineaeg">
+		<Preference android:key="fonts_machineaeg"			
+			android:layout="@layout/fonts_machineaeg"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_markerfelt">
+		<Preference android:key="fonts_markerfelt"			
+			android:layout="@layout/fonts_markerfelt"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_mgopenmoderna">
+		<Preference android:key="fonts_mgopenmoderna"			
+			android:layout="@layout/fonts_mgopenmoderna"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_minimalistic">
+		<Preference android:key="fonts_minimalistic"			
+			android:layout="@layout/fonts_minimalistic"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_morpheus">
+		<Preference android:key="fonts_morpheus"			
+			android:layout="@layout/fonts_morpheus"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_museosans">
+		<Preference android:key="fonts_museosans"			
+			android:layout="@layout/fonts_museosans"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_nokia">
+		<Preference android:key="fonts_nokia"			
+			android:layout="@layout/fonts_nokia"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_orbitron">
+		<Preference android:key="fonts_orbitron"			
+			android:layout="@layout/fonts_orbitron"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_polobrush">
+		<Preference android:key="fonts_polobrush"			
+			android:layout="@layout/fonts_polobrush"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_roboto">
+		<Preference android:key="fonts_roboto"			
+			android:layout="@layout/fonts_roboto"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_romancefatalserif">
+		<Preference android:key="fonts_romancefatalserif"			
+			android:layout="@layout/fonts_romancefatalserif"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_segoewp7">
+		<Preference android:key="fonts_segoewp7"			
+			android:layout="@layout/fonts_segoewp7"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_sensation">
+		<Preference android:key="fonts_sensation"			
+			android:layout="@layout/fonts_sensation"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_sonysketch">
+		<Preference android:key="fonts_sonysketch"			
+			android:layout="@layout/fonts_sonysketch"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_technic">
+		<Preference android:key="fonts_technic"			
+			android:layout="@layout/fonts_technic"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_tork">
+		<Preference android:key="fonts_tork"			
+			android:layout="@layout/fonts_tork"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_ubuntu">
+		<Preference android:key="fonts_ubuntu"			
+			android:layout="@layout/fonts_ubuntu"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_veggieburgermed">
+		<Preference android:key="fonts_veggieburgermed"			
+			android:layout="@layout/fonts_veggieburgermed"/>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/title_fonts_restore">
+		<Preference android:key="fonts_restore"
+			android:title="@string/title_fonts_restore_summary"/>
+	</PreferenceCategory>
+
+</PreferenceScreen>
