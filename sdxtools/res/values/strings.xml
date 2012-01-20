@@ -11,4 +11,39 @@
     <string name="allAboutRoot">All About Root</string>
     <string name="allAboutRootMarketLink">https://market.android.com/details?id=com.joeykrim.allaboutroot</string>
     <string name="limitedMode">Limited Mode</string>
+
+    <string name="title_fonts_altehaasgrotesk">Alte Haas Grotesk</string>
+    <string name="title_fonts_avantgardebook">AvantGarde-Book</string>
+    <string name="title_fonts_blackchancery">Black Chancery</string>
+    <string name="title_fonts_caviardreams">Caviar Dreams</string>
+    <string name="title_fonts_centurygothic">Century Gothic</string>
+    <string name="title_fonts_cleevr">Cleev Reticulian</string>
+    <string name="title_fonts_codgothic">COD Bank Gothic</string>
+    <string name="title_fonts_comfortaa">Comfortaa</string>
+    <string name="title_fonts_decker">Decker</string>
+    <string name="title_fonts_droidlogo">Droid Logo</string>
+    <string name="title_fonts_frhopper">FR Hopper</string>
+    <string name="title_fonts_grissans">Grissans</string>
+    <string name="title_fonts_helvetiker">Helvetiker</string>
+    <string name="title_fonts_herolight">Hero Ligh</string>
+    <string name="title_fonts_machineaeg">Machineag Maszyna AEG</string>
+    <string name="title_fonts_markerfelt">Marker Felt</string>
+    <string name="title_fonts_mgopenmoderna">MgOpen Moderna</string>
+    <string name="title_fonts_minimalistic">Minimalistic Helvetica</string>
+    <string name="title_fonts_morpheus">Morpheus</string>
+    <string name="title_fonts_museosans">Museo Sans</string>
+    <string name="title_fonts_nokia">Nokia</string>
+    <string name="title_fonts_orbitron">Orbitron</string>
+    <string name="title_fonts_polobrush">Polo Brush</string>
+    <string name="title_fonts_roboto">Roboto</string>
+    <string name="title_fonts_romancefatalserif">Romance Fatal Serif</string>
+    <string name="title_fonts_segoewp7">Segoe WP7</string>
+    <string name="title_fonts_sensation">Sensation Light</string>
+    <string name="title_fonts_sonysketch">Sony Sketch</string>
+    <string name="title_fonts_technic">Technic</string>
+    <string name="title_fonts_tork">Tork</string>
+    <string name="title_fonts_ubuntu">Ubuntu</string>
+    <string name="title_fonts_veggieburgermed">Veggie Burger Med</string>
+    <string name="title_fonts_restore">Default</string>
+    <string name="title_fonts_restore_summary">Restore Default Fonts</string>
 </resources>
